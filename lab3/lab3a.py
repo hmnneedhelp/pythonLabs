@@ -9,3 +9,21 @@ elif not url.startswith("https://"):
     url = "https://" + url
 
 webbrowser.open(url)
+6396
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
